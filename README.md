@@ -1,5 +1,5 @@
-# TDS Script Provider
-The TDS auto farm script provider.
+# TDS Autofarm Scripts
+I have pasted a bunch of TDS auto farms for you all!
 
 # Instructions
 
