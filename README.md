@@ -1,10 +1,16 @@
 # TDS Script Provider
 The TDS auto farm script provider.
 
+# Instructions
+
+You must have all the units required for whatever farm it is that your using or it won't function properly.
+
+Put the autofarm script in your auto execute folder for your exploit.
+
 # Description
 If you do not know what units are needed for each autofarm script, look inside the script it's the first thing.
 
-# What map each scripts auto farms
+# Maps
 
 **Farm 1:** Medieval Times
 
@@ -13,3 +19,13 @@ If you do not know what units are needed for each autofarm script, look inside t
 **Farm 3:** Cross Roads
 
 **Farm 4:** Cross Roads
+
+# Units
+
+**Farm 1:** Minigunner, Militant, DJ Booth, Commander, Farm
+
+**Farm 2:** Gladiator, Accelerator, Farm, Commander, and DJ Booth
+
+**Farm 3:** Ace Pilot, Freezer, Military Base
+
+**Farm 4:** Farm, Commander, Ace Pilot, Pyromancer, Electroshocker
