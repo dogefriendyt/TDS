@@ -9,13 +9,13 @@ Put the autofarm script in your auto execute folder for your exploit.
 
 # Rank
 
-Farm 3: ..8/10 for gems (you die at wave 22 but gives 30 gems)
+Farm 3: 8/10 for gems (you die at wave 22 but gives 30 gems)
 
-Farm 2: ..9/10 (Has not been tested)
+Farm 2: 9/10 (Has not been tested)
 
-Farm 1: ..7/10 (at wave ~33 it lets enemies go right by)
+Farm 1: 7/10 (at wave ~33 it lets enemies go right by)
 
-Farm 4: ..7/10 (unfortunately it doesn't just automatically just execute)
+Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
 
 # Maps
 
