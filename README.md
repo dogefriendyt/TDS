@@ -9,13 +9,17 @@ Put the autofarm script in your auto execute folder for your exploit.
 
 # Rank
 
-Farm 3: 8/10 for gems (you die at wave 22 but gives 30 gems)
-
-Farm 2: 9/10 (Has not been tested)
-
 Farm 1: 7/10 (at wave ~33 it lets enemies go right by)
 
+Farm 2: ???/10 (Has not been tested)
+
+Farm 3: 8/10 for gems (you die at wave 22 but gives 30 gems)
+
 Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
+
+Farm 5: ???/10 (Has not been tested)
+
+Farm 6: 8/10 (Works good ends at wave 31)
 
 # Maps
 
@@ -28,6 +32,8 @@ Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
 **Farm 4:** Cross Roads
 
 **Farm 5:** Abandoned City
+
+**Farm 6:** Badlands II
 
 # Units
 
@@ -43,7 +49,9 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 4:** EXP/Gems
 
-**Farm 4:** Coins/EXP
+**Farm 5:** Coins/EXP
+
+**Farm 6:** Coins/EXP
 
 # End wave
 
@@ -55,7 +63,9 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 4:** Wave 20 - 22
 
-**Farm 4:** UNKNOWN
+**Farm 5:** UNKNOWN
+
+**Farm 6:** Wave 31 - 32
 
 # Executors
 
