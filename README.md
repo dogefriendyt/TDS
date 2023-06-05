@@ -53,7 +53,7 @@ Just run the script and it will auto equip the units needed.
 
 # Executors
 
-***All of the following  are compatible with the microsoft store & bypass byfron!***
+***All of the following  are compatible with the microsoft store.***
 
 Fluxus: <a href="https://fluxteam.net" target="_Blank">Go</a>
 
