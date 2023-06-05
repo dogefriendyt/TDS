@@ -21,6 +21,8 @@ Farm 5: ???/10 (Has not been tested)
 
 Farm 6: 8/10 (Works good ends at wave 31)
 
+Farm 7: 7/10 (Good for beginners)
+
 # Maps
 
 **Farm 1:** Medieval Times
@@ -34,6 +36,8 @@ Farm 6: 8/10 (Works good ends at wave 31)
 **Farm 5:** Abandoned City
 
 **Farm 6:** Badlands II
+
+**Farm 7:** Grass Isla
 
 # Units
 
@@ -53,6 +57,8 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 6:** Coins/EXP
 
+**Farm 7:** Coins/EXP
+
 # End wave
 
 **Farm 1:** Wave 32 - 35
@@ -66,6 +72,8 @@ Just run the script and it will auto equip the units needed.
 **Farm 5:** UNKNOWN
 
 **Farm 6:** Wave 31 - 32
+
+**Farm 7:** UNKNOWN
 
 # Executors
 
