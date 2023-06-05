@@ -10,6 +10,16 @@ Put the autofarm script in your auto execute folder for your exploit.
 # Description
 If you do not know what units are needed for each autofarm script, look inside the script it's the first thing.
 
+# Rank
+
+Farm 3: 8/10 for gems (you die at wave 22 but gives 30 gems)
+
+Farm 2: 9/10 (Has not been tested)
+
+Farm 1: 7/10 (at wave ~33 it lets enemies go right by)
+
+Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
+
 # Maps
 
 **Farm 1:** Medieval Times
@@ -29,6 +39,16 @@ If you do not know what units are needed for each autofarm script, look inside t
 **Farm 3:** Ace Pilot, Freezer, Military Base
 
 **Farm 4:** Farm, Commander, Ace Pilot, Pyromancer, Electroshocker
+
+# Autofarm stats
+
+**Farm 1:** Coins/EXP
+
+**Farm 2:** Coins/EXP
+
+**Farm 3:** EXP/Gems
+
+**Farm 4:** EXP/Gems
 
 # Executors
 
