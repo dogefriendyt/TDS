@@ -1,5 +1,5 @@
-# TDS Autofarm Scripts
-I have pasted a bunch of TDS auto farms for you all!
+# TDS Script Provider
+The TDS auto farm script provider.
 
 # Instructions
 
@@ -29,3 +29,7 @@ If you do not know what units are needed for each autofarm script, look inside t
 **Farm 3:** Ace Pilot, Freezer, Military Base
 
 **Farm 4:** Farm, Commander, Ace Pilot, Pyromancer, Electroshocker
+
+# Executors
+
+Fluxus: fluxteam.net
