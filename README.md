@@ -32,4 +32,12 @@ If you do not know what units are needed for each autofarm script, look inside t
 
 # Executors
 
-Fluxus: fluxteam.net
+***All of the following  are compatible with the microsoft store & bypass byfron!***
+
+Fluxus: <a href="https://fluxteam.net" target="_Blank">Open</a>
+
+Valyse: <a href="https://valyse.net" target="_Blank">Open</a>
+
+Celery: <a href="https://0xvienna.github.io/Celery/" target="_Blank">Open</a>
+
+Celery: <a href="https://ryos.lol" target="_Blank">Open</a>
