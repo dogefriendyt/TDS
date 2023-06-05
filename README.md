@@ -51,7 +51,7 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 2:** UNKNOWN
 
-**Farm 3:** Wave 22
+**Farm 3:** Wave 22-23
 
 **Farm 4:** Wave 20 - 22
 
