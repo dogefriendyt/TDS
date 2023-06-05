@@ -40,4 +40,4 @@ Valyse: <a href="https://valyse.net" target="_Blank">Go</a>
 
 Celery: <a href="https://0xvienna.github.io/Celery/" target="_Blank">Go</a>
 
-Celery: <a href="https://ryos.lol" target="_Blank">Go</a>
+Electron: <a href="https://ryos.lol" target="_Blank">Go</a>
