@@ -7,9 +7,6 @@ You must have all the units required for whatever farm it is that your using or 
 
 Put the autofarm script in your auto execute folder for your exploit.
 
-# Description
-If you do not know what units are needed for each autofarm script, look inside the script it's the first thing.
-
 # Rank
 
 Farm 3: 8/10 for gems (you die at wave 22 but gives 30 gems)
@@ -49,6 +46,16 @@ Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
 **Farm 3:** EXP/Gems
 
 **Farm 4:** EXP/Gems
+
+# End wave
+
+**Farm 1:** Wave 32 - 35
+
+**Farm 2:** UNKNOWN
+
+**Farm 3:** Wave 22
+
+**Farm 4:** Wave 20 - 22
 
 # Executors
 
