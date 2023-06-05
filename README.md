@@ -1,5 +1,5 @@
-# TDS Script Provider
-The TDS auto farm script provider.
+# TDS Autofarms
+This is where you can choose between 4 methods of TDS autofarms to fit your needs.
 
 # Instructions
 
