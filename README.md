@@ -1,5 +1,5 @@
 # TDS Autofarms
-This is where you can choose between 4 methods of TDS autofarms to fit your needs.
+This is where you can choose between 6 different methods of TDS autofarms to fit your needs.
 
 # Instructions
 
