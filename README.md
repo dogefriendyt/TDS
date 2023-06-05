@@ -27,6 +27,8 @@ Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
 
 **Farm 4:** Cross Roads
 
+**Farm 5:** Abandoned City
+
 # Units
 
 Just run the script and it will auto equip the units needed.
@@ -41,6 +43,8 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 4:** EXP/Gems
 
+**Farm 4:** Coins/EXP
+
 # End wave
 
 **Farm 1:** Wave 32 - 35
@@ -50,6 +54,8 @@ Just run the script and it will auto equip the units needed.
 **Farm 3:** Wave 22
 
 **Farm 4:** Wave 20 - 22
+
+**Farm 4:** UNKNOWN
 
 # Executors
 
