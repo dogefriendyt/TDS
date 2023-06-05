@@ -29,13 +29,7 @@ Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
 
 # Units
 
-**Farm 1:** Minigunner, Militant, DJ Booth, Commander, Farm
-
-**Farm 2:** Gladiator, Accelerator, Farm, Commander, and DJ Booth
-
-**Farm 3:** Ace Pilot, Freezer, Military Base
-
-**Farm 4:** Farm, Commander, Ace Pilot, Pyromancer, Electroshocker
+Just run the script and it will auto equip the units needed.
 
 # Autofarm stats
 
