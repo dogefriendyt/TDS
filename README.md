@@ -10,4 +10,4 @@ If you do not know what units are needed for each autofarm script, look inside t
 
 **Farm 2:** Crystal Cave
 
-**Farm 3:** Hardcore Map
+**Farm 3:** Cross Roads
