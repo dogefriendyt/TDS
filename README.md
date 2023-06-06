@@ -79,10 +79,10 @@ Just run the script and it will auto equip the units needed.
 
 ***All of the following  are compatible with the microsoft store.***
 
-Fluxus: <a href="https://fluxteam.net" target="_Blank">Go</a>
+Fluxus : <a href="https://fluxteam.net" target="_Blank">Go</a>
 
-Valyse: <a href="https://valyse.net" target="_Blank">Go</a>
+Valyse **BEST** : <a href="https://valyse.net" target="_Blank">Go</a>
 
-Celery: <a href="https://0xvienna.github.io/Celery/" target="_Blank">Go</a>
+Celery : <a href="https://0xvienna.github.io/Celery/" target="_Blank">Go</a>
 
-Electron: <a href="https://ryos.lol" target="_Blank">Go</a>
+Electron : <a href="https://ryos.lol" target="_Blank">Go</a>
