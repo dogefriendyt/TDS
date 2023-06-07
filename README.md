@@ -23,7 +23,7 @@ Farm 6: 8/10 (Works good ends at wave 31)
 
 Farm 7: 7/10 (Good for beginners)
 
-Farm 8: 8/10 (Good for medium level players)
+Farm 8: 10/10 (Beats molten mode!!!)
 
 # Maps
 
@@ -81,15 +81,15 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 7:** UNKNOWN
 
-**Farm 8:** UNKNOWN
+**Farm 8:** 24:30
 
 # Executors
 
 ***All of the following  are compatible with the microsoft store.***
 
-Fluxus : <a href="https://fluxteam.net" target="_Blank">Go</a>
+Fluxus : <a href="https://fluxteam.net" target="_Blank">Go</a> (**EXPECT CRASHES**)
 
-Valyse **BEST** : <a href="https://valyse.net" target="_Blank">Go</a>
+Valyse : <a href="https://valyse.net" target="_Blank">Go</a> (**BEST**)
 
 Celery : <a href="https://0xvienna.github.io/Celery/" target="_Blank">Go</a>
 
