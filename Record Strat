@@ -1,0 +1,5 @@
+getgenv().StratName = "Tutorial"
+getgenv().APIVar = "TDS"
+getgenv().Webhook = "WEBHOOK (OPTIONAL)"
+
+loadstring(game:HttpGet("https://mmdevelopment.xyz/Scripts/TDSRecorder"))()
