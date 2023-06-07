@@ -1,0 +1,6 @@
+local Prop = game.ReplicatedStorage.State.Voting.Enabled
+Prop:GetPropertyChangedSignal("Value"):Connect(function()
+    if Prop.Value then
+        game.ReplicatedStorage.RemoteEvent:FireServer("Waves","Skip")
+    end
+end)
