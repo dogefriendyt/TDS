@@ -94,3 +94,7 @@ Valyse : <a href="https://valyse.net" target="_Blank">Go</a> (**BEST**)
 Celery : <a href="https://0xvienna.github.io/Celery/" target="_Blank">Go</a>
 
 Electron : <a href="https://ryos.lol" target="_Blank">Go</a>
+
+# Got questions or experiencing a bug?
+
+Message me on Discord : **nty#4291** No caps & no spaces.
