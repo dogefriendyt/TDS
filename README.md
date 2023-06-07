@@ -23,7 +23,7 @@ Farm 6: 8/10 (Works good ends at wave 31)
 
 Farm 7: 7/10 (Good for beginners)
 
-Farm 8: Coming soon!
+Farm 8: 10/10 (Beats molten mode every time)
 
 # Maps
 
@@ -41,7 +41,7 @@ Farm 8: Coming soon!
 
 **Farm 7:** Grass Island
 
-**Farm 8:** Coming soon!
+**Farm 8:** Deserted Village
 
 # Units
 
@@ -63,7 +63,7 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 7:** Coins/EXP
 
-**Farm 8:** Coming soon!
+**Farm 8:** Coins/EXP
 
 # End wave
 
@@ -81,7 +81,7 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 7:** UNKNOWN
 
-**Farm 8:** Coming soon!
+**Farm 8:** Wave 40 (Beats boss)
 
 # Executors
 
