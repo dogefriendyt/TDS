@@ -1,3 +1,10 @@
+--[[
+
+Recorded by me!!! DM ME IF ANY ISSUES nty#4291
+
+]]
+
+
 --V2.3
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/ckmhjvskfkmsStratFun2", true))() 
 TDS:Loadout("Minigunner", "DJ Booth", "Commander", "Farm", "Military Base") 
