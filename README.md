@@ -17,7 +17,7 @@ Farm 3: 8/10 for gems (you die at wave 22 but gives 30 gems)
 
 Farm 4: 7/10 (unfortunately it doesn't just automatically just execute)
 
-Farm 5: ???/10 (Has not been tested)
+Farm 5: 5/10 (Only goes to wave 15 says in strat logger that unit with id 7 has not been placed.)
 
 Farm 6: 8/10 (Works good ends at wave 31)
 
@@ -69,7 +69,7 @@ Just run the script and it will auto equip the units needed.
 
 **Farm 4:** Wave 20 - 22
 
-**Farm 5:** UNKNOWN
+**Farm 5:** Wave 15
 
 **Farm 6:** Wave 31 - 32
 
