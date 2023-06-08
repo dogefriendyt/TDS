@@ -23,7 +23,7 @@ Farm 6: 8/10 (Works good ends at wave 31)
 
 Farm 7: 7/10 (Good for beginners)
 
-Farm 8: UNKNOWN (Has to be redone, glitchy, and decent)
+Farm 8: 9/10 (Beats molten but doesn't fully upgrade all units)
 
 # Maps
 
